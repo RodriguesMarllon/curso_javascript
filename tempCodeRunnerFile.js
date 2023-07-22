@@ -1,2 +1,2 @@
 
-    resultado.push(contarCaracters(data));
+resultado.push(contarCaracters(data))
