@@ -1,2 +1,1 @@
-
-resultado.push(contarCaracters(data))
+chaves
