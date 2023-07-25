@@ -1,1 +1,2 @@
-chaves
+
+    constructor(nome, senha, email) {
