@@ -1,2 +1,2 @@
 
-    constructor(nome, senha, email) {
+usuario.senha = 'sadsagsa';
